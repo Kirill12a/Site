@@ -15,8 +15,11 @@
 ![home_house](https://user-images.githubusercontent.com/45273279/153965463-f1d195ba-5e88-48d1-a77d-d7a5de663c39.png)
 
 ![like](https://user-images.githubusercontent.com/45273279/153965464-d1b7a844-0067-4521-84d0-e847f1a69487.png)
+
 ![lorry](https://user-images.githubusercontent.com/45273279/153965468-b52bfecb-0a47-4b33-bf7c-0d8cbd661dae.png)
+
 ![montaj1](https://user-images.githubusercontent.com/45273279/153965471-5f149b1e-5476-4571-ab14-cbf43ccaf972.png)
+
 ![montaj2](https://user-images.githubusercontent.com/45273279/153965474-fcb6e9dc-8ac8-486a-970c-89c96fd74a8b.png)
 ![montaj3](https://user-images.githubusercontent.com/45273279/153965478-bdd6c391-756f-49d7-aba9-0802d9a6d9a2.png)
 ![montaj4](https://user-images.githubusercontent.com/45273279/153965482-35a71f28-a770-443c-824c-ff41b5309d82.png)
