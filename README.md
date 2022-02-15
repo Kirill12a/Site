@@ -7,9 +7,13 @@
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
+
 ![banner](https://user-images.githubusercontent.com/45273279/153965461-d3a9eae2-d994-4fa8-b68a-4b4045bf2d96.png)
+
 ![clock](https://user-images.githubusercontent.com/45273279/153965462-1eda07f7-ea3a-4e4b-b07f-0f2d3dc30c10.png)
+
 ![home_house](https://user-images.githubusercontent.com/45273279/153965463-f1d195ba-5e88-48d1-a77d-d7a5de663c39.png)
+
 ![like](https://user-images.githubusercontent.com/45273279/153965464-d1b7a844-0067-4521-84d0-e847f1a69487.png)
 ![lorry](https://user-images.githubusercontent.com/45273279/153965468-b52bfecb-0a47-4b33-bf7c-0d8cbd661dae.png)
 ![montaj1](https://user-images.githubusercontent.com/45273279/153965471-5f149b1e-5476-4571-ab14-cbf43ccaf972.png)
