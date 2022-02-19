@@ -1,6 +1,6 @@
 # Site
-ссылки на фото 
-даня и вася
+Ссылки на фото 
+биба и боба 
 ![link-photo](https://user-images.githubusercontent.com/45273279/140622206-27216174-6cd9-4067-851b-6f33707b5e56.png)
 ![link-photo](https://user-images.githubusercontent.com/45273279/143237881-6dde9d6d-0487-410f-878d-86b93a06ac0e.png)
 ![link-photo](https://user-images.githubusercontent.com/45273279/143237895-9a6d36da-3f5a-41d1-8246-47cca0543bf0.png)
@@ -42,7 +42,9 @@
 
 
 ![montaj1-big](https://user-images.githubusercontent.com/45273279/154306431-754a39bf-4ef8-49d0-88a5-e867f3ec65e1.png)
+
 ![montaj2-big](https://user-images.githubusercontent.com/45273279/154306441-ae76564a-b5fc-47ff-880c-6698dd77bd14.png)
+
 ![montaj3-big](https://user-images.githubusercontent.com/45273279/154306465-7b8d65e4-a9b6-47f3-abb2-974b71da91cf.png)
 ![montaj4-big](https://user-images.githubusercontent.com/45273279/154306473-609c19fc-9030-4074-938e-fbd227253d53.png)
 ![montaj5-big](https://user-images.githubusercontent.com/45273279/154306477-a5ecb5ba-faab-42a7-8dc8-5fa126bb8dd8.png)
