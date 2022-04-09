@@ -66,5 +66,5 @@ http://www.fa.ru/org/spo/kip/Documents/raspisanie/2021-2022/аудитории.p
 
 <embed src="https://github.com/Kirill12a/Site/files/8457137/default.pdf" type="application/pdf" />
 
-
+  [пример](http://example.com/ "Необязательная подсказка")
 
