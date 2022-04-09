@@ -57,3 +57,11 @@
 ![products-big](https://user-images.githubusercontent.com/45273279/154306485-b325ba93-93dd-4a29-a483-408bf75a8cb2.png)
 
 http://www.fa.ru/org/spo/kip/Documents/raspisanie/2021-2022/аудитории.pdf
+
+[Понедельник.pdf](https://github.com/Kirill12a/Site/files/8457137/default.pdf)
+
+[embed]http://example.com/file.pdf[/embed]
+
+[Intro.pdf](https://github.com/Kirill12a/Site/files/8457137/default.pdf)
+
+
