@@ -64,4 +64,7 @@ http://www.fa.ru/org/spo/kip/Documents/raspisanie/2021-2022/аудитории.p
 
 [Intro.pdf](https://github.com/Kirill12a/Site/files/8457137/default.pdf)
 
+<embed src="https://github.com/Kirill12a/Site/files/8457137/default.pdf" type="application/pdf" />
+
+
 
