@@ -98,5 +98,6 @@ http://www.fa.ru/org/spo/kip/Documents/raspisanie/2021-2022/аудитории.p
 ![Group 3024](https://user-images.githubusercontent.com/45273279/178114589-d9a4f133-8583-41db-bb2d-c36a554a2671.png)
 
 
+![Group 3024-2](https://user-images.githubusercontent.com/45273279/178114665-9e5fa2be-61ec-46c3-b313-dea8517f6377.png)
 
 
