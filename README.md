@@ -32,8 +32,6 @@
 ![montaj5-big](https://user-images.githubusercontent.com/45273279/154306477-a5ecb5ba-faab-42a7-8dc8-5fa126bb8dd8.png)
 ![montaj6-big](https://user-images.githubusercontent.com/45273279/154306482-63cba634-499f-441a-8804-d79c26608b21.png)
 ![products-big](https://user-images.githubusercontent.com/45273279/154306485-b325ba93-93dd-4a29-a483-408bf75a8cb2.png)
-http://www.fa.ru/org/spo/kip/Documents/raspisanie/2021-2022/аудитории.pdf
-[Понедельник.pdf](https://github.com/Kirill12a/Site/files/8457137/default.pdf)
 [embed]http://example.com/file.pdf[/embed]
 [Intro.pdf](https://github.com/Kirill12a/Site/files/8457137/default.pdf)
 <embed src="https://github.com/Kirill12a/Site/files/8457137/default.pdf" type="application/pdf" />
