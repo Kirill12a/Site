@@ -40,3 +40,5 @@
 ![frontend 2](https://user-images.githubusercontent.com/45273279/166800546-6c073c04-08ee-47f0-b968-5a37203e6b02.png)
 ![Group 3024](https://user-images.githubusercontent.com/45273279/178114589-d9a4f133-8583-41db-bb2d-c36a554a2671.png)
 ![Group 3024-2](https://user-images.githubusercontent.com/45273279/178114665-9e5fa2be-61ec-46c3-b313-dea8517f6377.png)
+![favicon](https://user-images.githubusercontent.com/45273279/179352567-b1c25f86-cf3e-467a-99d2-0ade57567be9.png)
+
