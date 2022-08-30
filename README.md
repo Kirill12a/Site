@@ -41,4 +41,5 @@
 ![Group 3024](https://user-images.githubusercontent.com/45273279/178114589-d9a4f133-8583-41db-bb2d-c36a554a2671.png)
 ![Group 3024-2](https://user-images.githubusercontent.com/45273279/178114665-9e5fa2be-61ec-46c3-b313-dea8517f6377.png)
 ![favicon](https://user-images.githubusercontent.com/45273279/179352567-b1c25f86-cf3e-467a-99d2-0ade57567be9.png)
-![fav](https://user-images.githubusercontent.com/45273279/181840540-45dce861-0683-4c0b-bc58-818ea6ff6fd4.png)
+![fav](https://user-images.githubusercontent.com/45273279/181840540-45dce861-0683-4c0b-bc58-818ea6ff6fd4.png)![Travel Map Location Point 5](https://user-images.githubusercontent.com/45273279/187353288-3c603c53-3483-4f9b-98a4-950ee2f6180b.png)
+
