@@ -4,9 +4,6 @@
 ![link-photo](https://user-images.githubusercontent.com/45273279/140622206-27216174-6cd9-4067-851b-6f33707b5e56.png)
 ![link-photo](https://user-images.githubusercontent.com/45273279/143237881-6dde9d6d-0487-410f-878d-86b93a06ac0e.png)
 ![link-photo](https://user-images.githubusercontent.com/45273279/143237895-9a6d36da-3f5a-41d1-8246-47cca0543bf0.png)
----------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------
 ![banner](https://user-images.githubusercontent.com/45273279/153965461-d3a9eae2-d994-4fa8-b68a-4b4045bf2d96.png)
 ![clock](https://user-images.githubusercontent.com/45273279/153965462-1eda07f7-ea3a-4e4b-b07f-0f2d3dc30c10.png)
 ![home_house](https://user-images.githubusercontent.com/45273279/153965463-f1d195ba-5e88-48d1-a77d-d7a5de663c39.png)
@@ -42,4 +39,3 @@
 ![Group 3024-2](https://user-images.githubusercontent.com/45273279/178114665-9e5fa2be-61ec-46c3-b313-dea8517f6377.png)
 ![favicon](https://user-images.githubusercontent.com/45273279/179352567-b1c25f86-cf3e-467a-99d2-0ade57567be9.png)
 ![fav](https://user-images.githubusercontent.com/45273279/181840540-45dce861-0683-4c0b-bc58-818ea6ff6fd4.png)![Travel Map Location Point 5](https://user-images.githubusercontent.com/45273279/187353288-3c603c53-3483-4f9b-98a4-950ee2f6180b.png)
-
